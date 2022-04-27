@@ -8,7 +8,7 @@
 # ejemplo:
 # email, name
 # Ricardo Valbuena, ricardo.valbuena@test.com
-# enviar repo a: ricardo.valbuena@omilatam.com
+
 from os import replace
 
 import names
